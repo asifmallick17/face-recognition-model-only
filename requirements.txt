@@ -1,0 +1,19 @@
+# Core ML & Face Recognition
+torch
+torchvision
+facenet-pytorch
+
+# Image Processing
+opencv-python
+Pillow
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Web Framework
+Flask
+
+# Optional but useful
+pandas
+matplotlib
